@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Steven Universe",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f0/Steven_Shield_WD.png/revision/latest?cb=20160406110631"
+    },
+    {
+      "id": 2,
+      "name": "Garnet",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/16/GarnetByKmes.png/revision/latest?cb=20160123075715"
+    },
+    {
+      "id": 3,
+      "name": "Amethyst",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/5/53/Jfek_New_Gen.png/revision/latest?cb=20160708025000"
+    },
+    {
+      "id": 4,
+      "name": "Pearl",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8c/Current_Pearl_Request.png/revision/latest?cb=20170807000053"
+    },
+    {
+      "id": 5,
+      "name": "Greg Universe",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/9/92/Greg_PantsCut.png/revision/latest?cb=20150622153117"
+    },
+    {
+      "id": 6,
+      "name": "Connie",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/1/12/ConnieNewIntro.png/revision/latest?cb=20160920145959"
+    },
+    {
+      "id": 7,
+      "name": "Saddie",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/a/aa/New_Sadie.png/revision/latest?cb=20150424223745"
+    },
+    {
+      "id": 8,
+      "name": "Lars",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8d/Larsbyollie.png/revision/latest?cb=20180328191750"
+    },
+    {
+      "id": 9,
+      "name": "Peridot",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/0/03/Smol_Peridot_by_Lenhi.png/revision/latest?cb=20151223054206"
+    },
+    {
+      "id": 10,
+      "name": "Stevonnie",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c3/Stevonnie_with_Sword_and_Shield_by_Lenhi.png/revision/latest?cb=20160803234314"
+    },
+    {
+      "id": 11,
+      "name": "Rose Quarts",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f9/Rose_Quartz_-_Weaponized.png/revision/latest?cb=20160822210727"
+    },
+    {
+      "id": 12,
+      "name": "Lion",
+      "image": "https://vignette.wikia.nocookie.net/steven-universe/images/4/4d/Lion_New_Pose_Normal_Eyes.png/revision/latest?cb=20160718074624"
+    }
+  ]
